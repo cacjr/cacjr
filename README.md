@@ -32,18 +32,6 @@ Rather than focusing solely on algorithms, I strive to understand the business c
 
 ---
 
-## Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Data Science
-- Data Engineering
-- Cybersecurity
-- Cloud Computing
-
----
-
 ## Tech Stack
 
 ### Programming Languages
@@ -73,6 +61,18 @@ AWS • Docker • Git • GitHub
 ### Data & Analytics
 
 Jupyter Notebook • Big Data • Business Intelligence • Dashboards
+
+---
+
+## Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Science
+- Data Engineering
+- Cybersecurity
+- Cloud Computing
 
 ---
 
@@ -153,9 +153,8 @@ RN-Treinando-CNN-Com-Imagens
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cacjr&show_icons=true&hide_border=true&theme=transparent"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacjr&layout=compact&hide_border=true&theme=transparent"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=cacjr&theme=transparent&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cacjr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacjr&layout=compact&hide_border=true" />
 </p>
 
 ---
