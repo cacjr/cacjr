@@ -153,8 +153,11 @@ RN-Treinando-CNN-Com-Imagens
 ## GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cacjr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacjr&layout=compact&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=cacjr&show_icons=true&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacjr&layout=compact&hide_border=true"/>
+
 </p>
 
 ---
