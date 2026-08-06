@@ -1,6 +1,6 @@
-# Claudio A. C. Junior
+# Hey there 👋, I'm Claudio Junior.
 
-### AI Engineer • Full Stack Developer • Data Engineering • Cybersecurity
+### AI Engineering • Full Stack Developer • Data Engineering • Cybersecurity
 
 I build intelligent solutions that transform data into meaningful insights and strategic decisions.
 
