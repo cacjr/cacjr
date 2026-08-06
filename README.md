@@ -128,6 +128,8 @@ I see technology not only as a tool for innovation, but as a bridge between comp
 
 ## Let's Connect!
 
+My social links are on the top-left side of my GitHub homepage.
+
 ---
 
 ##  Featured Projects below, following this ReadMe.
