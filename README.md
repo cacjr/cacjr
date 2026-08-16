@@ -1,22 +1,22 @@
-<h1 align="center">Claudio Junior</h1>
+<h1 align="center">Claudio A. C. Junior</h1>
 <p align="center"><i>I look for the pattern behind the noise.</i></p>
 
 <br>
 
-Most of my work starts the same way: a pile of data, logs, or code that looks like chaos to everyone else, and a question nobody's answered yet. AI, security, and software engineering are just different lenses I use to ask that question — sometimes it's "what's this model actually learning," sometimes it's "where's the crack in this system," sometimes it's "why does this dashboard feel wrong."
+Most of my work starts the same way: a pile of data, logs, or code that looks like chaos to everyone else, and a question nobody's answered yet. AI, security, and software engineering are just different lenses I use to ask that question. Sometimes it's "what's this model actually learning," sometimes it's "where's the crack in this system," sometimes it's "why does this dashboard feel wrong."
 
-I'm not chasing buzzwords. I'm chasing the moment a mess of numbers turns into a decision someone can actually act on.
+I'm chasing the moment a mess of numbers turns into a decision someone can actually act on.
 
 <br>
 
 ## How I think about this stuff
 
-Every dataset has a story it's trying not to tell you. Every system has an assumption nobody questioned. My job — the part I actually enjoy — is finding those.
+Every dataset has a story it's trying not to tell you. Every system has an assumption nobody questioned. Finding those is the part of the job I actually enjoy.
 
 A few things I keep coming back to:
 
 - A model that's 95% accurate and unexplainable is often worse than one that's 88% and honest about its limits.
-- Security and AI aren't separate disciplines to me — a vulnerable pipeline is just a prediction problem with worse consequences.
+- Security and AI aren't separate disciplines to me. A vulnerable pipeline is just a prediction problem with worse consequences.
 - The best insight is useless if nobody trusts it enough to act on it. Communication is half the engineering.
 - I'd rather rebuild something wrong from scratch than patch it into something merely acceptable.
 
@@ -78,9 +78,9 @@ A few things I keep coming back to:
 
 ## Outside the terminal
 
-I got into this field because I'm genuinely curious about why people and systems behave the way they do — code is just the medium I use to test my theories about that. The projects below are less a portfolio and more a record of questions I decided to actually go answer.
+I got into this field because I'm genuinely curious about why people and systems behave the way they do, and code is just the medium I use to test my theories about that. The projects below are less a portfolio and more a record of questions I decided to actually go answer.
 
-If any of it's useful to you, take it. If you think I got something wrong, tell me — that's usually where the better version comes from.
+If any of it's useful to you, take it. If you think I got something wrong, tell me. That's usually where the better version comes from.
 
 **Find me:** links are up top-left on my profile.
 
