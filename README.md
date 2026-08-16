@@ -24,7 +24,7 @@ A few things I keep coming back to:
 
 ## Currently digging into
 
-`Deep Learning & Computer Vision` · `MLOps & AI Deployment` · `Explainable AI` · `Cloud AI Systems` · `Cognitive Cybersecurity`
+`Deep Learning & Computer Vision`· `Data Engineering & Pipelines`· `MLOps & AI Deployment` · `Explainable AI` · `Cloud AI Systems` · `Cognitive Cybersecurity`
 
 <br>
 
